@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ypwkwm6e7IRRbbm4aKRRP2pTZ97ooCSpL6E/y0mun5FhmqEucB8BxAwRTeXbUg44m0DFnnD4Wz9a6Vb52b2zxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\evangudmestad\\source\\repos\\Ch2DemoSolution\\Project1\\Project1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evangudmestad\\.nuget\\packages\\bootstrap\\5.3.2\\bootstrap.5.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
